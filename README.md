@@ -1,5 +1,5 @@
 # Cache/Memory Controller
-This project is part of the ECE M116C Computer Architecture Systems course at UCLA. The goal is to design a cache/memory controller 
+This project was part of the ECE M116C Computer Architecture Systems course at UCLA. The goal was to design a cache/memory controller 
 that efficiently manages data storage and retrieval within a computer system.
 
 # Overview
